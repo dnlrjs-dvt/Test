@@ -1,0 +1,7 @@
+jupyter
+notebook
+nbconvert
+cryptography
+ipython
+ipykernel
+requests
